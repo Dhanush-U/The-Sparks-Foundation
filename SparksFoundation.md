@@ -1,4 +1,3 @@
-# The-Sparks-Foundation
 vfrom selenium import webdriver
 import time
 from selenium.webdriver.chrome.options import Options
